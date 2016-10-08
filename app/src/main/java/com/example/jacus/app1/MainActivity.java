@@ -1,3 +1,6 @@
+// code taken from !!!  http://gamecodeschool.com/android/coding-a-breakout-game-for-android/
+// copy pasted just for learning purposed
+
 package com.example.jacus.app1;
 
 import android.app.Activity;
@@ -18,7 +21,7 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-// dupa
+
 
 import java.io.IOException;
 
