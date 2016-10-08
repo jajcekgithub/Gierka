@@ -18,6 +18,8 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+// dupa
+
 import java.io.IOException;
 
 public class MainActivity extends Activity {
